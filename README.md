@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋🏿
+
+I'm Nicseamas ✌🏿
+
+A bit about myself :
+
+- Literary Explorer by day 📚
+- Java Apprentice by night 🧑🏿‍💻
+- Running Enthusiast in between 🏃🏿‍♀️
 
 <!--
 **nicseamas/nicseamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
